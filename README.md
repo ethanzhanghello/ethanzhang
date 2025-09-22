@@ -55,12 +55,6 @@ I'm a **Computer Science & Applied Mathematics** student at **UC Berkeley** with
 - **Improved** music discovery by 34% (MAP@20: 0.89) across platforms
 - **Awarded** $1,000 Grand Prize at SMCCD Intercollegiate Hackathon
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethanzhanghello&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanzhanghello&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🏆 Achievements
 
@@ -83,7 +77,7 @@ I'm a **Computer Science & Applied Mathematics** student at **UC Berkeley** with
   <a href="mailto:ezhang06@berkeley.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ethanzhang">
+  <a href="https://www.linkedin.com/in/ethan-zhang-693100270/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ethanzhanghello">
