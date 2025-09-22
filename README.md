@@ -37,23 +37,18 @@ I'm a **Computer Science & Applied Mathematics** student at **UC Berkeley** with
 
 ## 🚀 Featured Projects
 
-### 🎯 Keystroke-Based Cheat Detection System
-- **Built** behavioral telemetry system identifying AI-assisted and copy-paste behavior
-- **Engineered** feature pipeline with 30+ signals from keystroke data
-- **Achieved** 91% precision with FastAPI inference API (<100ms latency)
-- **Technologies**: Python, FastAPI, SHAP, Behavioral Analytics
+### 🛒 Lumo - AI Grocery App
+- **Shipped** AI grocery app used by 800+ beta testers; reduced average in-store time by 23% with personalized meal planning
+- **Integrated** GPT-4 assistant for real-time suggestions, nutrition tracking, and conversational shopping features
+- **Architected** modular system with GitHub Actions CI/CD and high test coverage, enabling parallel dev across cart, chatbot, and calendar modules
+- **Technologies**: React, Node.js, GPT-4, CI/CD, Meal Planning AI
 
-### 🏆 Golden Bear Bets - NBA Analytics Platform
-- **Led** 18-person team building scalable LLM sports analytics platform
-- **Processed** 1.2M+ data points/week with live ingestion and feature extraction
-- **Deployed** full-stack Flask + React web app on AWS with Kubernetes
-- **Achieved** 88.4% accuracy and <250ms latency serving 12K+ predictions
-
-### 🎵 Cross-Platform Music Recommender
-- **Created** music recommender aggregating 3M+ Spotify, Apple Music, and YouTube plays
-- **Built** transformer-based audio embeddings with drag-and-drop UI
-- **Improved** music discovery by 34% (MAP@20: 0.89) across platforms
-- **Awarded** $1,000 Grand Prize at SMCCD Intercollegiate Hackathon
+### ⚖️ Law Offices of Vaughan de Kirby - Bilingual Legal Platform
+- **Built** full-stack bilingual platform with green card screener, RAG-based multilingual chatbot, and predictive case tracker
+- **Created** multilingual React screener and RAG chatbot (LangChain, ChromaDB); enabled 1,000+ self-service screenings
+- **Constructed** visa case tracker with ETA engine (MAE: 4.6 days); improved update accuracy and cut inquiry tickets by 30%
+- **Assembled** Flask backend with Firebase, MongoDB, and JWT auth; deployed to Vercel/Render with accessibility-first UI
+- **Technologies**: React, Flask, LangChain, ChromaDB, MongoDB, Firebase, JWT Auth
 
 
 ## 🏆 Achievements
